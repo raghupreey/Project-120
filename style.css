@@ -1,0 +1,28 @@
+.test_image_and_result
+  {
+    background: #d4d6d5; 
+    padding: 10px;
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+
+
+.copy_right_footer
+{
+  position: fixed;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  line-height: 3;
+  text-align: center;
+} 
+
+.heading_div
+  {
+    background: white ;
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
